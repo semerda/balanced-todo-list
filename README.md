@@ -25,11 +25,11 @@ The following **optional** features are implemented:
 
 Screenshots of the implemented prework:
 
-![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.28%20AM.png)
+![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.28%20AM.png =250x)
 
-![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.41%20AM.png)
+![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.41%20AM.png =250x)
 
-![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.44%20AM.png)
+![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.44%20AM.png =250x)
 
 ## Notes
 
