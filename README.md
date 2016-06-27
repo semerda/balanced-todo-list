@@ -5,8 +5,6 @@
 Submitted by: **Ernest Semerda**
 Portfolio: http://www.ernestsemerda.com
 
-Time spent: ** ¯\_(ツ)_/¯ ** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is completed:
@@ -27,11 +25,11 @@ The following **optional** features are implemented:
 
 Screenshots of the implemented prework:
 
-https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.28%20AM.png
+![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.28%20AM.png)
 
-https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.41%20AM.png
+![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.41%20AM.png)
 
-https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.44%20AM.png
+![alt tag](https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.44%20AM.png)
 
 ## Notes
 
