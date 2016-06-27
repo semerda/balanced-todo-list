@@ -1,10 +1,11 @@
-# Android Bootcamp Pre-work - *SimpleTodo*
+# Android Bootcamp Pre-work - *Balanced*
 
-**SimpleTodo** is basic Android Todo list application with functionality to add, update and delete items on a list.
+**Balanced** is a basic Android Todo list with Dwight Eisenhower’s urgency-importance decision matrix to help you with your ToDos decision making.
 
 Submitted by: **Ernest Semerda**
+Portfolio: http://www.ernestsemerda.com
 
-Time spent: **¯\_(ツ)_/¯** hours spent in total
+Time spent: ** ¯\_(ツ)_/¯ ** hours spent in total
 
 ## User Stories
 
@@ -22,11 +23,15 @@ The following **optional** features are implemented:
 * [x] Added Dwight Eisenhower’s urgency-importance decision matrix focusing on the classification of items as Important and/or Urgent. This is a better version of priority ranking. The outcome of this classification is then visible through "advise" (next steps) and color codes in the main listview. More on this type of classification can be read on my blog here: http://www.gsdfaster.com/blog/how-to/dwight-eisenhowers-urgency-importance-decision-matrix/
 * [x] Tweak the style improving the UI / UX, play with colors, images or backgrounds
 
-## Android Bootcamp Prework assinment
+## Android Bootcamp Prework assignment
 
-Here's a walkthrough of implemented prework:
+Screenshots of the implemented prework:
 
---- screenshots go here --
+https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.28%20AM.png
+
+https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.41%20AM.png
+
+https://raw.githubusercontent.com/semerda/balanced-todo-list/master/screenshots/Screen%20Shot%202016-06-27%20at%2012.45.44%20AM.png
 
 ## Notes
 
